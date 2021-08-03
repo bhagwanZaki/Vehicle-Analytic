@@ -1,9 +1,7 @@
 from django.shortcuts import render
 import pandas as pd
-import numpy as np
 import json 
 from django.http import HttpResponse
-# Create your views here.
 
 # Funtion for Filtering and Cleaning Dataframe 
 def filtering_and_cleaning_dataframe():

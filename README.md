@@ -2,7 +2,7 @@
 
 ## Introduction
 Vehicle Analytic is pandas-Django based project where the data is extracted from the 3 excel sheet and is preprocess to final DataFrame consisting of 4 Column where Column 1 is be Vehicle Class, Column 2-4 are months (April-2021, May-2021 and June-2021)
-<br> The User Can also download the csv format of the dataframe
+<br> User Can also download the csv format of the dataframe
 
 
 ### Note : This project is an Internship Assigment
